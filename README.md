@@ -7,8 +7,8 @@ This script will download the video from youtube using the pytube library, soon 
 
 ## Requirements
 - Python 3+
-- Pytube library (https://github.com/nficano/pytube)
 - FFmpeg
+- Pytube library (https://github.com/nficano/pytube)
 
 <b>Note:</b> In order for you to perform the conversion it is necessary to have ffmpeg installed and added to your environment variables.  
 You can find it here: https://ffmpeg.zeranoe.com/builds/
